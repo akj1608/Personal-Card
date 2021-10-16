@@ -1,6 +1,6 @@
 # Personal_Card(Business_card_App)
 
-[Demo](https://github.com/akj1608/Personal-Card-App-Flutter/blob/main/images/Demo.png)
+![Demo](https://github.com/akj1608/Personal-Card-App-Flutter/blob/main/images/Demo.png)
 
 
 A new Flutter project.
